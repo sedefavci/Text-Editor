@@ -1,0 +1,7 @@
+insert Hello 0
+insert , World 5
+delete 5 7
+undo
+replace Java 7 5
+undo
+redo
